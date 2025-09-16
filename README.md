@@ -42,4 +42,3 @@ Tool for converting Spotify playlists into YouTube playlists.
 📫 [LinkedIn]([https://www.linkedin.com/in/vincent-harkins](https://www.linkedin.com/in/vincent-harkins-060a4426b/)) • [Email](mailto:ninjaharkins@gmail.com)  
 💻 [LeetCode]([https://leetcode.com/vincentharkins](https://leetcode.com/u/vincentharkins/))  
 
-![Profile views](https://komarev.com/ghpvc/?username=vharkins1&color=blue)
